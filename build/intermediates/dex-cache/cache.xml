@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/Project Android/PianoView/sample/build/intermediates/transforms/desugar/release/0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94666f2c79a39614cb8deee67d1552069acc0326">
+        <dex dex="/home/regopantes_apps/Project Android/PianoView/sample/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
